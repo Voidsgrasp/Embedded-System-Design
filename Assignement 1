@@ -7,25 +7,32 @@ Main Features:
  Allows for more precise temperature managment and some smart home intergrations.
 Improvment:
 Food spoilage tracking like rembering dates spoilage dates and loging them and giving a notification when something is going to spoil.
-SmartPhone
+Barcode Scanner
+Main Features:
+Laser/LED ligth source, sensor for relected light, decoding processor, wired/wireless comunication
+Why embedde system:
+Real-time decoding of barcodes requires dedicated processign with minimal power consumption.
+Smart TV
+Main Features:
+Internet streaming, app support, high definiton display, remote control
+Why Embedded system:
+To provide multimiedia palyback, connectivity and user interaction in a single device.
+Improvement:
+Adaptive brightness based on ambient light sensors. To Adjust britness acording to rooms lighting.
+Blood Glucose Monitor
 Main Features
-playstation controller
-Main Features
-Keyboard 
-Main Features
-Mouse
+Robot Vacuum Cleaner
 Main Features
 Airfryer 
 Main Features
-Headphones
+Microwave Oven
 Main Features
 washing machine
 Main Features
 Keycard reader
 Main Features: Reads code from key card and sends signla to server then recive signal user is okey to pass or not.
 Why embeded system:
-
-Home Router
+Digital Thermostat
 Main Features
 
 
