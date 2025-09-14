@@ -2,38 +2,57 @@ Assingment 1
 Task 1.
 smart Fridge 
 Main Features:
- Internal temeperature control, inventory management, wifi connectivity.
+ Internal temeperature control, inventory management and wifi connectivity.
  Why embedde system:
  Allows for more precise temperature managment and some smart home intergrations.
 Improvment:
 Food spoilage tracking like rembering dates spoilage dates and loging them and giving a notification when something is going to spoil.
 Barcode Scanner
 Main Features:
-Laser/LED ligth source, sensor for relected light, decoding processor, wired/wireless comunication
+Laser/LED ligth source, sensor for relected light, decoding processor and wired/wireless comunication
 Why embedde system:
-Real-time decoding of barcodes requires dedicated processign with minimal power consumption.
+For real-time decoding of barcodes requires dedicated processign with minimal power consumption.
 Smart TV
 Main Features:
-Internet streaming, app support, high definiton display, remote control
+Internet streaming, app support, high definiton display and remote control
 Why Embedded system:
 To provide multimiedia palyback, connectivity and user interaction in a single device.
 Improvement:
 Adaptive brightness based on ambient light sensors. To Adjust britness acording to rooms lighting.
 Blood Glucose Monitor
-Main Features
+Main Features:
+Blood sample reader, biosensor, digital display and memory for storage.
+Why embedded system:
+To Provide real-time health measurements with minimal power and size.
 Robot Vacuum Cleaner
-Main Features
+Main Features:
+Autonomous navigation, obstical detection, scheduling and cleaning modes 
+Why embedded system:
+To enable realtime motor controls, mapping and efficent battery usage.
+Improvement:
+Intergation with an app that allows precises mapping of routes around the house.
 Airfryer 
-Main Features
+Main Features:
+Digital timer temperature control, heating elemen and fan circulation.
+Why embedded system:
+To maintain precise cooking cycles and ensurese safety.
 Microwave Oven
-Main Features
+Main Features:
+Touch controls, timer, magnetron heating and rotating tray.
+Why embedded system:
+To Ensures accurate timing, power control and user-friendly interface.
 washing machine
-Main Features
+Main Features:
+Multiple wash programs, motor speed control, water-level sensors and digital display.
+Why embedded system: To Automate washing cycles, opitmizes water levels and energy use. 
 Keycard reader
-Main Features: Reads code from key card and sends signla to server then recive signal user is okey to pass or not.
+Main Features: Reads digital codes from RFID keycards, verifies user access with server.
 Why embeded system:
+To Provide secure, low latency authentication and control in access systems.
 Digital Thermostat
-Main Features
+Main Features: Tenoerature seonsors, heating/cooling control, scheduling and wifi-connectivity.
+Why embedded system:
+To Manage indoor climate efficiently while minizing energy usage.
 
 
 Task 2.
