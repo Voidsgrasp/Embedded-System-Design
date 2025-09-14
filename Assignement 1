@@ -60,6 +60,17 @@ a)
 System inputs are power supply, temperature setting usually user input or automatic, sodering tip thermocouple.
 System outputs are Heating element control, temperature display, statues leds and audiable buzzer. These are possible thing soudering iron might have.
 b)
+Why would we embedd a computer:
+-To provide even more precises control on the heating soudering iron tip.
+-For the possiblity swap between setting for leaded and unleaded soudering meaning wheter soudering line has lead in it or not. 
+-Energy saving. 
+These would be my reasons to sodder computer. 
+What would the computer do in the system:
+It would aim to read the soudering iron's tips temperature and manage heating acording to it. It would manage power consuption and display more information to user. Also would provide safety shutdown to stop possible overheating.
+What would be the desing constraints:
+Low power consumption would be priority. It would stil need to be compact. It should be resistant to heat and be durrable. It should be controllable in Real-time.
+What could be some additional features:
+Sleep mode to stop soudering iron from staying on for long periods of time. I dont think there that many other features that would be usefull for a soudering iron :)
 
 
 
