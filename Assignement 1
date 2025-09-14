@@ -65,10 +65,14 @@ Why would we embedd a computer:
 -For the possiblity swap between setting for leaded and unleaded soudering meaning wheter soudering line has lead in it or not. 
 -Energy saving. 
 These would be my reasons to sodder computer. 
+
+
 What would the computer do in the system:
 It would aim to read the soudering iron's tips temperature and manage heating acording to it. It would manage power consuption and display more information to user. Also would provide safety shutdown to stop possible overheating.
+
 What would be the desing constraints:
 Low power consumption would be priority. It would stil need to be compact. It should be resistant to heat and be durrable. It should be controllable in Real-time.
+(Wolf, 2019)
 What could be some additional features:
 Sleep mode to stop soudering iron from staying on for long periods of time. I dont think there that many other features that would be usefull for a soudering iron :)
 
@@ -94,8 +98,41 @@ MPUs Higher power consumption.
 Socs are powerful enough to run full on operating systems like linus. 
 MCUs are lower processing power, designed to run specific simple firmware.
 MPUs High computational power and fexibility. MPUs are suitable for runnigh comple computations and operating systems. 
-5.
+5.Use cases:
+SoC Smartphones, tablets
+MCU Iot, appliances (Lin JI 2020)
+MPU Industrial, embedded linux systems
 b)
+I would choose a MCU with BLE suppport model probaly Cortex-M4
+ Power consumption requirements:
+I would work towards wearable device so it would need low power consumption processor. 
+ Computational needs for sensor fusion:
+MCUS inclued DSP instructions and floating-point units realtime sensors fusion algoritms
+ Cost constraints:
+MCUs are generally cheaper than the other opitons for wearable devices and are sutibale for mass-market consumer and industrial devices.
+ Development complexity:
+MCUs have broad support for RTOS and multiple libraries which should reduce development compleixty. 
+(arm https://developer.arm.com/Processors/Cortex-M4)
+(Lin JI 2020)
+
+Potential usecases:
+ Industrial werable helmet that can singnal the forman if something falls on somenes head they or if they fall or wrist band for something similar.
+Consumer some sort of eleder care wearable device that could help track incase they fall send signal for help.
+ 
+
 
 
 Reflection:
+I had lot of trouble finding good sources I could cite. 
+The excercise them self weren't that challengin. I didn't come up with best devices uscases for device for task 3. I have personally done bit work with sodering and emebbeded systems. Desing thinking is not new to me. Where I was bad was at finding good academic sources on these things. I learned many new things about desing and alot more about MCUs Socs and MPUs. I am personally quite happy how these excerise turned out. I used llms in the excerises only to enhance my own learing about subjects mostly in learning more about MCUs, Socs and MPUs According to university guidelines.
+
+
+Sources:
+For desing constraints I utilized this book.
+Wolf, W. (2019). Computers as Components: Principles of Embedded Computing System Design (4th ed.)
+https://developer.arm.com/Processors/Cortex-M4 Source for the chip for task 3
+  doi = {10.48550/ARXIV.2007.10319},
+  url = {https://arxiv.org/abs/2007.10319},
+  author = {Lin,  Ji and Chen,  Wei-Ming and Lin,  Yujun and Cohn,  John and Gan,  Chuang and Han,  Song},
+  title = {MCUNet: Tiny Deep Learning on IoT Devices},
+  year = {2020},
