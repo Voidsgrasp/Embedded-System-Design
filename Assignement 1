@@ -1,7 +1,12 @@
 Assingment 1
 Task 1.
-Fridge 
-Main Features
+smart Fridge 
+Main Features:
+ Internal temeperature control, inventory management, wifi connectivity.
+ Why embedde system:
+ Allows for more precise temperature managment and some smart home intergrations.
+Improvment:
+Food spoilage tracking like rembering dates spoilage dates and loging them and giving a notification when something is going to spoil.
 SmartPhone
 Main Features
 playstation controller
@@ -31,6 +36,4 @@ Task 2.
 
 
 Task 3.
-
-
 
