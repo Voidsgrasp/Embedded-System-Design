@@ -56,7 +56,10 @@ To Manage indoor climate efficiently while minizing energy usage.
 
 
 Task 2.
-
+a)
+System inputs are power supply, temperature setting usually user input or automatic, sodering tip thermocouple.
+System outputs are Heating element control, temperature display, statues leds and audiable buzzer. These are possible thing soudering iron might have.
+b)
 
 
 
