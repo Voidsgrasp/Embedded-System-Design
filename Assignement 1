@@ -78,23 +78,23 @@ Sleep mode to stop soudering iron from staying on for long periods of time. I do
 Task 3.
 a)
 Features:
-Peripherlas and Memory:
+1. Peripherlas and Memory:
 SoC include built-in ram, rom and toher peripherals.
 MCU Intergates essetial peripherals like timers, counters and Analog-to-Digital converters and some small amaount of RAM and ROM
 MPU Relies totally on external memoery and peripheral interfaces, that provide greater memory capacity.
-Cost:
+2. Cost:
 Socs are very expensive.
 MCUs are very affordable. 
 MPUs are moderetly affordable. 
-Power consumption:
+3. Power consumption:
 Socs More Energy efficient
 MCUs Very low power consumption
 MPUs Higher power consumption.
-Processing power:
+4. Processing power:
 Socs are powerful enough to run full on operating systems like linus. 
 MCUs are lower processing power, designed to run specific simple firmware.
 MPUs High computational power and fexibility. MPUs are suitable for runnigh comple computations and operating systems. 
-
+5.
 b)
 
 
